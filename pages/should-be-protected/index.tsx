@@ -1,0 +1,1 @@
+export const ShouldBeProtectedPage = () => <p>Should be protected</p>;
